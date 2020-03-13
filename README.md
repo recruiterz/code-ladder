@@ -1,1 +1,13 @@
 # code-ladder
+
+알고리즘 많이 풀고 쑥쑥 자라렴
+
+## 문제 목록
+
+- [New Year Chaos](./2020-03-13-new-year-chaos)
+
+## 알고리즘 문제 페이지들
+
+- [해커랭크](https://www.hackerrank.com/interview/interview-preparation-kit/)
+- [리트코드](https://leetcode.com/problemset/algorithms/)
+- [프로그래머스](https://programmers.co.kr/learn/challenges?tab=all_challenges/)
