@@ -2,6 +2,6 @@
 
 ## Solutions
 
-- [Python](jin-two-strings.ipynb) by @HyunTruth
+- [Python](./jin-two-strings.ipynb) by @HyunTruth
 - [Python](./newinh.py) by @newinh
 - [JavaScript](./solution.js) by @noahluftyang
