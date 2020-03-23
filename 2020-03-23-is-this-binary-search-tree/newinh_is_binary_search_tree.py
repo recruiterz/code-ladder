@@ -5,8 +5,6 @@ class node:
       self.left = None
       self.right = None
 """
-import queue
-
 def check_binary_search_tree_(root):
     
     def is_bst(node, _min, _max):
