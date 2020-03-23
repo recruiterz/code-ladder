@@ -7,6 +7,7 @@
 - [New Year Chaos](./2020-03-13-new-year-chaos)
 - [Two Strings](./2020-03-16-two-strings)
 - [Max Array Sum](./2020-03-18-max-array-sum)
+- [Is This a Binary Search Tree?](./2020-03-23-is-this-binary-search-tree)
 
 ## 알고리즘 문제 페이지들
 
