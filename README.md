@@ -10,6 +10,7 @@
 - [Is This a Binary Search Tree?](./2020-03-23-is-this-binary-search-tree)
 - [Project Euler #243: Resilience](./2020-03-25-resilience)
 - [Search >> Pairs](./2020-03-31-pairs)
+- [DP >> Climbing Stairs](./2020-04-01-climbing-stairs)
 
 ## 알고리즘 문제 페이지들
 
