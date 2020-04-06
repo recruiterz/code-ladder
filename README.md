@@ -13,6 +13,7 @@
 - [DP >> Climbing Stairs](./2020-04-01-climbing-stairs)
 - [DP >> House Robber](./2020-04-01-house-robber)
 - [DP >> House Robber II](./2020-04-01-house-robber-2nd)
+- [Tree >> Distribute Coins in Binary Tree](./2020-04-06-distribute-coins-in-binary-tree)
 
 ## 알고리즘 문제 페이지들
 
