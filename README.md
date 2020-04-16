@@ -15,6 +15,7 @@
 -   [DP >> House Robber II](./2020-04-01-house-robber-2nd)
 -   [Tree >> Distribute Coins in Binary Tree](./2020-04-06-distribute-coins-in-binary-tree)
 -   [Hash Table >> Two Sum](./2020-04-13-two-sum)
+-   [String >> Longest Common Prefix](./2020-04-16-longest-common-prefix)
 
 ## 알고리즘 문제 페이지들
 
