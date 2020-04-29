@@ -19,7 +19,8 @@
 -   [Tree >> Find Largest Value In Each Tree Row](./2020-04-16-find-largest-value-in-each-tree-row)
 -   [Stack >> Remove All Adjacent Duplicates In String](./2020-04-20-remove-all-adjacent-duplicates-in-string)
 -   [Task Scheduler](./2020-04-22-task-scheduler)
--   [Task Scheduler](./2020-04-27-shortest-bridge)
+-   [Shortest Bridge](./2020-04-27-shortest-bridge)
+-   [Remove Invalid Parentheses](./2020-04-29-remove-invalid-parentheses)
 
 ## 알고리즘 문제 페이지들
 
