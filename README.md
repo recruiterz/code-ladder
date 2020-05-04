@@ -21,6 +21,7 @@
 -   [Task Scheduler](./2020-04-22-task-scheduler)
 -   [Shortest Bridge](./2020-04-27-shortest-bridge)
 -   [Remove Invalid Parentheses](./2020-04-29-remove-invalid-parentheses)
+-   [Decode String](./2020-05-04-decode-string)
 
 ## 알고리즘 문제 페이지들
 
