@@ -22,6 +22,7 @@
 -   [Shortest Bridge](./2020-04-27-shortest-bridge)
 -   [Remove Invalid Parentheses](./2020-04-29-remove-invalid-parentheses)
 -   [Decode String](./2020-05-04-decode-string)
+-   [Reverse Linked List](./2020-05-11-reverse-linked-list)
 
 ## 알고리즘 문제 페이지들
 
