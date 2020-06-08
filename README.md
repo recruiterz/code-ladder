@@ -26,6 +26,7 @@
 -   [Possible Bipartiton](./2020-05-27-possible-bipartition)
 -   [Merge Two Binary Trees](./2020-06-01-merge-two-binary-trees)
 -   [Maximum Depth of Binary Tree](./2020-06-03-maximum-depth-of-binary-tree)
+-   [Majority Element](./2020-06-08-majority-element)
 
 ## 알고리즘 문제 페이지들
 
