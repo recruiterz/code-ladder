@@ -25,9 +25,5 @@ class Solution:
                     
             for _to_go in to_go:
                 stack.append((path, _to_go))
-        
-        result = []
-        for path in paths:
-            result.append(sorted(list(path)))
-            
-        return result
+
+        return [sorted(list(p)) for p in paths]
