@@ -1,29 +1,23 @@
 class Solution:
     def allPathsSourceTarget(self, graph: List[List[int]]) -> List[List[int]]:
         
+        N = len(graph)
         stack = []
         paths = []
         
-        stack.append((set(), 0))
+        stack.append(([], 0))
         
         while stack:
             
             path, v = stack.pop()
             path = path.copy()
-            path.add(v)
+            path.append(v)
             
-            if not graph[v]:
+            if not graph[v] or v == N-1:
                 paths.append(path)
                 continue
-
-            to_go = []
-            for _v in graph[v]:
-                if _v in path:
-                    paths.append(path)
-                else:
-                    to_go.append(_v)
                     
-            for _to_go in to_go:
-                stack.append((path, _to_go))
+            for to_go in graph[v]:
+                stack.append((path, to_go))
 
-        return [sorted(list(p)) for p in paths]
+        return paths
