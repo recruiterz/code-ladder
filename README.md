@@ -28,7 +28,8 @@
 -   [Maximum Depth of Binary Tree](./2020-06-03-maximum-depth-of-binary-tree)
 -   [Majority Element](./2020-06-08-majority-element)
 -   [Range Sum of BST](./2020-06-08-range-sum-of-bst)
--   [https://leetcode.com/problems/all-paths-from-source-to-target/](./2020-06-15-all-paths-from-source-to-target)
+-   [All Paths From Source To Target](./2020-06-15-all-paths-from-source-to-target)
+-   [Stone Game](./2020-06-22-stone-game)
 
 ## 알고리즘 문제 페이지들
 
