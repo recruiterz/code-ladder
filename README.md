@@ -30,6 +30,7 @@
 -   [Range Sum of BST](./2020-06-08-range-sum-of-bst)
 -   [All Paths From Source To Target](./2020-06-15-all-paths-from-source-to-target)
 -   [Stone Game](./2020-06-22-stone-game)
+-   [IPO](./2020-06-24-ipo)
 
 ## 알고리즘 문제 페이지들
 
