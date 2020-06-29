@@ -31,6 +31,7 @@
 -   [All Paths From Source To Target](./2020-06-15-all-paths-from-source-to-target)
 -   [Stone Game](./2020-06-22-stone-game)
 -   [IPO](./2020-06-24-ipo)
+-   [DP >> Minimum Cost For Tickets](./2020-06-29-minimum-cost-for-tickets)
 
 ## 알고리즘 문제 페이지들
 
