@@ -32,6 +32,7 @@
 -   [Stone Game](./2020-06-22-stone-game)
 -   [IPO](./2020-06-24-ipo)
 -   [DP >> Minimum Cost For Tickets](./2020-06-29-minimum-cost-for-tickets)
+-   [Advantage Shuffle](./2020-07-06-advantage-shuffle)
 
 ## 알고리즘 문제 페이지들
 
