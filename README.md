@@ -33,6 +33,7 @@
 -   [IPO](./2020-06-24-ipo)
 -   [DP >> Minimum Cost For Tickets](./2020-06-29-minimum-cost-for-tickets)
 -   [Advantage Shuffle](./2020-07-06-advantage-shuffle)
+-   [DP >> Partition Equal Subset Sum](./2020-07-13-partition-equal-subset-sum)
 
 ## 알고리즘 문제 페이지들
 
