@@ -3,17 +3,16 @@ class Solution:
         sortedNums = sorted(nums)
         _min = 0
         _max = len(nums) - 1
-        
+
         start = 0
         end = len(nums) - 1
-        
+
         status = [True, True]
 
         while any(status):
             if nums[start] == sortedNums[_min]:
                 start += 1
-                arr = nums[start:end+1]
-                if arr:
+                if end + 1 - start:
                     _min += 1
                 else:
                     break
@@ -21,8 +20,7 @@ class Solution:
                 status[0] = False
             if nums[end] == sortedNums[_max]:
                 end -= 1
-                arr = nums[start:end+1]
-                if arr:
+                if end + 1 - start:
                     _max -= 1
                 else:
                     break
