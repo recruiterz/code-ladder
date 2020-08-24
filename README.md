@@ -39,6 +39,7 @@
 -   [Palindromic Substrings](./2020-07-20-palindromic-substrings)
 -   [Shortest Unsorted Continuous Subarray](./2020-07-27-shortest-unsorted-continuous-subarray)
 -   [Find All Anagrams in a String](./2020-08-17-find-all-anagrams-in-a-string)
+-   [Serialize and Deserialize Binary Tree](./2020-08-24-serialize-and-deserialize-binary-tree)
 
 ## 알고리즘 문제 페이지들
 
