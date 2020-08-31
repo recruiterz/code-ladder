@@ -41,6 +41,7 @@
 -   [Find All Anagrams in a String](./2020-08-17-find-all-anagrams-in-a-string)
 -   [Serialize and Deserialize Binary Tree](./2020-08-24-serialize-and-deserialize-binary-tree)
 -   [Maximal Rectangle](./2020-08-26-maximal-rectangle)
+-   [Longest Valid Parentheses](./2020-08-31-longest-valid-parentheses)
 
 ## 알고리즘 문제 페이지들
 
