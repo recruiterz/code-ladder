@@ -46,6 +46,7 @@
 - [Search a 2D Matrix II](./2020-09-14-search-a-2d-matrix-ii)
 - [Container With Most Water](./2020-09-21-container-with-most-water)
 - [Sort Colors](./2020-10-05-sort-colors)
+- [Lowest Common Ancestor of a Binary Search Tree](./2020-10-12-lowest-common-ancestor-of-a-binary-search-tree)
 
 ## 알고리즘 문제 페이지들
 
