@@ -1,3 +1,3 @@
-# [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+# [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 
 ## Solutions
